@@ -119,3 +119,5 @@ dist
 .pnp.*
 
 
+# MY ADDITIONAL CONFIGS
+*.pdf
